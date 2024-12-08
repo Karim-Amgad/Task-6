@@ -1,0 +1,15 @@
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.exe
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.deps.json
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.runtimeconfig.json
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.runtimeconfig.dev.json
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.dll
+D:\Depi\C#\Day 6\Task-6\bin\Debug\net5.0\Task-6.pdb
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.AssemblyInfoInputs.cache
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.AssemblyInfo.cs
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.csproj.CoreCompileInputs.cache
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.dll
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\refint\Task-6.dll
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.pdb
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\Task-6.genruntimeconfig.cache
+D:\Depi\C#\Day 6\Task-6\obj\Debug\net5.0\ref\Task-6.dll
